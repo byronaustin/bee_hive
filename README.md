@@ -1,4 +1,1 @@
-bee_hive
-========
-
-Keeps track of bee hive parts costs for sales and manufacturer
+Rails application to create a webpage to help with Bee Hive manufacture
